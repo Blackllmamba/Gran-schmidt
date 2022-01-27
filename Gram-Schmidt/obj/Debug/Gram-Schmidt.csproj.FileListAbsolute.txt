@@ -1,0 +1,7 @@
+C:\Users\aviat\source\repos\Gram-Schmidt\Gram-Schmidt\bin\Debug\Gram-Schmidt.exe.config
+C:\Users\aviat\source\repos\Gram-Schmidt\Gram-Schmidt\bin\Debug\Gram-Schmidt.exe
+C:\Users\aviat\source\repos\Gram-Schmidt\Gram-Schmidt\bin\Debug\Gram-Schmidt.pdb
+C:\Users\aviat\source\repos\Gram-Schmidt\Gram-Schmidt\obj\Debug\Gram-Schmidt.csprojAssemblyReference.cache
+C:\Users\aviat\source\repos\Gram-Schmidt\Gram-Schmidt\obj\Debug\Gram-Schmidt.csproj.CoreCompileInputs.cache
+C:\Users\aviat\source\repos\Gram-Schmidt\Gram-Schmidt\obj\Debug\Gram-Schmidt.exe
+C:\Users\aviat\source\repos\Gram-Schmidt\Gram-Schmidt\obj\Debug\Gram-Schmidt.pdb
